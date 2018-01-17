@@ -1,0 +1,26 @@
+{
+  "name": "happening-admin",
+  "version": "1.0.0",
+  "description": "Administrator application for Happening application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-lost-explorer/happening-admin.git"
+  },
+  "keywords": [
+    "festival"
+  ],
+  "author": "Amey Parundekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-lost-explorer/happening-admin/issues"
+  },
+  "homepage": "https://github.com/the-lost-explorer/happening-admin#readme",
+  "dependencies": {
+    "firebase": "^4.8.2"
+  }
+}
